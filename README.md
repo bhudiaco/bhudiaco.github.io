@@ -1,3 +1,3 @@
 # bhudiaco.github.io
 
-Static website https://www.bhudia.co
+Static website http://www.bhudia.co
